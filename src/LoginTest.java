@@ -21,6 +21,9 @@ public class LoginTest {
 		driver.findElement(By.xpath("//*[@id=\'//header-waypoint-sticky\']/div[1]/div/div/div[2]/div/ul/li[3]/div")).click();
 		driver.findElement(By.xpath("//a[contains(@href, 'login')]")).click();
 		
+		System.out.println(driver.getTitle() + " is loaded");
+		
+		
 
 	}
 
