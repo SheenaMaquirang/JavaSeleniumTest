@@ -1,2 +1,4 @@
 # JavaSeleniumTest
-Practice testing using selenium with java
+Automation Testing using Selenium with java
+
+Website tested: https://www.phptravels.net/ (demo)
